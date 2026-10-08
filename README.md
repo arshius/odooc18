@@ -13,7 +13,7 @@ A
 - **Account Invoice Reporting** <sup>[[&#x2197;]](https://github.com/OCA/account-invoice-reporting)</sup>
 - **Account Invoicing** <sup>[[&#x2197;]](https://github.com/OCA/account-invoicing)</sup>
 - **Account Payment** <sup>[[&#x2197;]](https://github.com/OCA/account-payment)</sup>
-- **Account Reconcile** <sup>[[&#x2197;]](https://github.com/OCA/account-reconcile)</sup>
+- **Account Reconcile** <sup>[[&#x2197;]](https://github.com/OCA/account-reconcile) [\[10/19\]](todo/account-reconcile.md)</sup>
 - **Agreement** <sup>[[&#x2197;]](https://github.com/OCA/agreement)</sup>
 - **Ai** <sup>[[&#x2197;]](https://github.com/OCA/ai)</sup>
 - **Automation** <sup>[[&#x2197;]](https://github.com/OCA/automation)</sup>
@@ -21,7 +21,7 @@ A
 B
 - **Bank Payment** <sup>[[&#x2197;]](https://github.com/OCA/bank-payment)</sup>
 - **Bank Payment Alternative** <sup>[[&#x2197;]](https://github.com/OCA/bank-payment-alternative)</sup>
-- **Bank Statement Import** <sup>[[&#x2197;]](https://github.com/OCA/bank-statement-import)</sup>
+- **Bank Statement Import** <sup>[[&#x2197;]](https://github.com/OCA/bank-statement-import) [\[7/19\]](todo/bank-statement-import.md)</sup>
 - **Barcode Interface** <sup>[[&#x2197;]](https://github.com/OCA/barcode-interface)</sup>
 - **Brand** <sup>[[&#x2197;]](https://github.com/OCA/brand)</sup>
 - **Business Requirement** <sup>[[&#x2197;]](https://github.com/OCA/business-requirement)</sup>
@@ -111,7 +111,7 @@ R
 - **Rest Framework** <sup>[[&#x2197;]](https://github.com/OCA/rest-framework)</sup>
 - **Rma** <sup>[[&#x2197;]](https://github.com/OCA/rma)</sup>
 - **Route Planning** <sup>[[&#x2197;]](https://github.com/OCA/route-planning)</sup>
-  
+
 S
 - **Sale Blanket** <sup>[[&#x2197;]](https://github.com/OCA/sale-blanket)</sup>
 - **Sale Channel** <sup>[[&#x2197;]](https://github.com/OCA/sale-channel)</sup>
@@ -122,7 +122,7 @@ S
 - **Server Backend** <sup>[[&#x2197;]](https://github.com/OCA/server-backend)</sup>
 - **Server Brand** <sup>[[&#x2197;]](https://github.com/OCA/server-brand)</sup>
 - **Server Env** <sup>[[&#x2197;]](https://github.com/OCA/server-env)</sup>
-- **Server Tools** <sup>[[&#x2197;]](https://github.com/OCA/server-tools)</sup>
+- **Server Tools** <sup>[[&#x2197;]](https://github.com/OCA/server-tools) [\[1/59\]](todo/server-tools.md)</sup>
 - **Server Ux** <sup>[[&#x2197;]](https://github.com/OCA/server-ux)</sup>
 - **Shopfloor App** <sup>[[&#x2197;]](https://github.com/OCA/shopfloor-app)</sup>
 - **Sign** <sup>[[&#x2197;]](https://github.com/OCA/sign)</sup>
