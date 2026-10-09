@@ -111,7 +111,7 @@ R
 - **Rest Framework** <sup>[[&#x2197;]](https://github.com/OCA/rest-framework)</sup>
 - **Rma** <sup>[[&#x2197;]](https://github.com/OCA/rma)</sup>
 - **Route Planning** <sup>[[&#x2197;]](https://github.com/OCA/route-planning)</sup>
-  
+
 S
 - **Sale Blanket** <sup>[[&#x2197;]](https://github.com/OCA/sale-blanket)</sup>
 - **Sale Channel** <sup>[[&#x2197;]](https://github.com/OCA/sale-channel)</sup>
@@ -139,7 +139,7 @@ S
 - **Stock Logistics Shopfloor** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-shopfloor)</sup>
 - **Stock Logistics Transport** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-transport)</sup>
 - **Stock Logistics Warehouse** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-warehouse)</sup>
-- **Stock Logistics Workflow** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-workflow)</sup>
+- **Stock Logistics Workflow** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-workflow) [\[1/115\]](todo/stock-logistics-workflow.md)</sup>
 - **Stock Weighing** <sup>[[&#x2197;]](https://github.com/OCA/stock-weighing)</sup>
 - **Storage** <sup>[[&#x2197;]](https://github.com/OCA/storage)</sup>
 - **Survey** <sup>[[&#x2197;]](https://github.com/OCA/survey)</sup>
