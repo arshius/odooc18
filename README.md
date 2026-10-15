@@ -111,7 +111,7 @@ R
 - **Rest Framework** <sup>[[&#x2197;]](https://github.com/OCA/rest-framework)</sup>
 - **Rma** <sup>[[&#x2197;]](https://github.com/OCA/rma)</sup>
 - **Route Planning** <sup>[[&#x2197;]](https://github.com/OCA/route-planning)</sup>
-  
+
 S
 - **Sale Blanket** <sup>[[&#x2197;]](https://github.com/OCA/sale-blanket)</sup>
 - **Sale Channel** <sup>[[&#x2197;]](https://github.com/OCA/sale-channel)</sup>
@@ -152,7 +152,7 @@ U
 V
 
 W
-- **Web** <sup>[[&#x2197;]](https://github.com/OCA/web)</sup>
+- **Web** <sup>[[&#x2197;]](https://github.com/OCA/web) [\[2/65\]](todo/web.md)</sup>
 - **Web Api** <sup>[[&#x2197;]](https://github.com/OCA/web-api)</sup>
 - **Website** <sup>[[&#x2197;]](https://github.com/OCA/website)</sup>
 - **Wms** <sup>[[&#x2197;]](https://github.com/OCA/wms)</sup>
