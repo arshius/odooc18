@@ -48,9 +48,17 @@
                 "web_dark_mode/static/src/scss/bs_functions_overrides.dark.scss",
             ),
         ],
+        "web.assets_fix_dark": [
+            (
+                "after",
+                "web_dark_mode/static/src/scss/primary_variables.dark.scss",
+                "web_dark_mode/static/src/fix/app_menu_fix.dark.scss",
+            ),
+        ],
         "web.assets_web_dark": [
             ("include", "web.assets_variables_dark"),
             ("include", "web.assets_backend_helpers_dark"),
+            ("include", "web.assets_fix_dark"),
             "web_dark_mode/static/src/**/*.dark.scss",
         ],
     },
