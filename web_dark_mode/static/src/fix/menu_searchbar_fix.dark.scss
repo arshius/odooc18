@@ -1,0 +1,39 @@
+//:root {
+//    .o_grid_apps_menu[data-theme="milk"] {
+//        --apps-menu-scrollbar-background: #{$o-brand-odoo};
+//        --apps-menu-empty-search-color: $app-menu-text-color;
+//    }
+//
+//    .o_grid_apps_menu[data-theme="community"] {
+//        --apps-menu-scrollbar-background: white;
+//        --apps-menu-empty-search-color: white;
+//    }
+//}
+
+.o_grid_apps_menu .search-container {
+    //.search-item-divider {
+    //    hr {
+    //        background-color: $o-brand-odoo;
+    //    }
+    //}
+
+    .search-input {
+        background-color: $o-gray-300;
+    }
+
+    .search-item {
+        background-color: $o-gray-300;
+        //box-shadow: $app-menu-box-shadow;
+
+        //&__name {
+        //    color: $app-menu-text-color;
+        //    text-shadow: 0 0 $app-menu-text-color;
+        //}
+
+        //&.highlight,
+        //&:hover {
+        //    background-color: $app-menu-item-highlight;
+        //    box-shadow: $app-menu-box-shadow-highlight;
+        //}
+    }
+}
