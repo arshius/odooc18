@@ -48,7 +48,7 @@
 | **sale_invoice_policy** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_invoice_policy)</sup> | Sales Management: let the user choose the invoice policy on the order |   |   |
 | **sale_invoice_product_not_alone** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_invoice_product_not_alone)</sup> | Set products to not invoice alone |   |   |
 | **sale_invoice_split_payment** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_invoice_split_payment)</sup> | Split by payment term generated invoices from sale orders |   |   |
-| **sale_last_price_info** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_last_price_info)</sup> | Product Last Price Info - Sale |   |   |
+| **sale_last_price_info** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_last_price_info)</sup> | Product Last Price Info - Sale | &#9989; | feat-price-history |
 | **sale_line_name_option** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_line_name_option)</sup> | Display product description without reference code on sale order lines |   |   |
 | **sale_line_vendor_comment** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_line_vendor_comment)</sup> | Add the vendor comment field to sale order line |   |   |
 | **sale_mail_autosubscribe** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_mail_autosubscribe)</sup> | Automatically subscribe partners to their company's sale orders |   |   |
@@ -81,7 +81,7 @@
 | **sale_order_line_move_to_optional** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_move_to_optional)</sup> | Move sale order line to optional products. |   |   |
 | **sale_order_line_no_print** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_no_print)</sup> | Hide order lines in reports |   |   |
 | **sale_order_line_note** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_note)</sup> | Note on sale order line |   |   |
-| **sale_order_line_price_history** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_price_history)</sup> | Sale order line price history |   |   |
+| **sale_order_line_price_history** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_price_history)</sup> | Sale order line price history | &#9989; | feat-price-history |
 | **sale_order_line_price_lock_by_pricelist** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_price_lock_by_pricelist)</sup> | Lock price or discount edition depending on pricelist items |   |   |
 | **sale_order_line_product_attribute_values** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_product_attribute_values)</sup> | Store Product Attribute Values in Sale Order Lines |   |   |
 | **sale_order_line_remove** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_remove)</sup> | Allows removal of sale order lines from confirmed orders if not invoiced or received |   |   |
