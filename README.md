@@ -117,7 +117,7 @@ S
 - **Sale Channel** <sup>[[&#x2197;]](https://github.com/OCA/sale-channel)</sup>
 - **Sale Promotion** <sup>[[&#x2197;]](https://github.com/OCA/sale-promotion)</sup>
 - **Sale Reporting** <sup>[[&#x2197;]](https://github.com/OCA/sale-reporting)</sup>
-- **Sale Workflow** <sup>[[&#x2197;]](https://github.com/OCA/sale-workflow) [\[6/173\]](todo/sale-workflow.md)</sup>
+- **Sale Workflow** <sup>[[&#x2197;]](https://github.com/OCA/sale-workflow) [\[8/173\]](todo/sale-workflow.md)</sup>
 - **Server Auth** <sup>[[&#x2197;]](https://github.com/OCA/server-auth)</sup>
 - **Server Backend** <sup>[[&#x2197;]](https://github.com/OCA/server-backend)</sup>
 - **Server Brand** <sup>[[&#x2197;]](https://github.com/OCA/server-brand)</sup>
