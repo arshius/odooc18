@@ -139,7 +139,7 @@ S
 - **Stock Logistics Shopfloor** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-shopfloor)</sup>
 - **Stock Logistics Transport** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-transport)</sup>
 - **Stock Logistics Warehouse** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-warehouse) [\[1/84\]](todo/stock-logistics-warehouse.md)</sup>
-- **Stock Logistics Workflow** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-workflow) [\[1/115\]](todo/stock-logistics-workflow.md)</sup>
+- **Stock Logistics Workflow** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-workflow) [\[6/115\]](todo/stock-logistics-workflow.md)</sup>
 - **Stock Weighing** <sup>[[&#x2197;]](https://github.com/OCA/stock-weighing)</sup>
 - **Storage** <sup>[[&#x2197;]](https://github.com/OCA/storage)</sup>
 - **Survey** <sup>[[&#x2197;]](https://github.com/OCA/survey)</sup>
