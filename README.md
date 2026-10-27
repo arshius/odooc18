@@ -99,7 +99,7 @@ P
 - **Product Variant** <sup>[[&#x2197;]](https://github.com/OCA/product-variant) [\[3/11\]](todo/product-variant.md)</sup>
 - **Project** <sup>[[&#x2197;]](https://github.com/OCA/project)</sup>
 - **Purchase Reporting** <sup>[[&#x2197;]](https://github.com/OCA/purchase-reporting)</sup>
-- **Purchase Workflow** <sup>[[&#x2197;]](https://github.com/OCA/purchase-workflow) [\[4/107\]](todo/purchase-workflow.md)</sup>
+- **Purchase Workflow** <sup>[[&#x2197;]](https://github.com/OCA/purchase-workflow) [\[5/107\]](todo/purchase-workflow.md)</sup>
 
 Q
 - **Queue** <sup>[[&#x2197;]](https://github.com/OCA/queue)</sup>

@@ -73,7 +73,7 @@
 | **purchase_reception_status** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_reception_status)</sup> | Add reception status on purchase orders (OCA logic) |   |   |
 | **purchase_reception_status_line** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_reception_status_line)</sup> | Add reception status on purchase order lines |   |   |
 | **purchase_representative** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_representative)</sup> | Purchase Representatives will be the point of contact for RFQ's and PO's |   |   |
-| **purchase_request** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_request)</sup> | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements. |   |   |
+| **purchase_request** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_request)</sup> | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements. | &#9989; | feat-purchase-request |
 | **purchase_request_cancel_confirm** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_request_cancel_confirm)</sup> | Purchase Request Cancel Confirm |   |   |
 | **purchase_request_department** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_request_department)</sup> | Purchase Request Department |   |   |
 | **purchase_request_exception** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_request_exception)</sup> | Custom exceptions on purchase request |   |   |
