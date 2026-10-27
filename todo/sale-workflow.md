@@ -81,7 +81,7 @@
 | **sale_order_line_move_to_optional** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_move_to_optional)</sup> | Move sale order line to optional products. |   |   |
 | **sale_order_line_no_print** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_no_print)</sup> | Hide order lines in reports |   |   |
 | **sale_order_line_note** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_note)</sup> | Note on sale order line |   |   |
-| **sale_order_line_price_history** <sup>[\[&#x2198;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_price_history)</sup> | Sale order line price history | &#9989; | feat-price-history |
+| **sale_order_line_price_history** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_price_history)</sup> | Sale order line price history | &#9989; | feat-price-history |
 | **sale_order_line_price_lock_by_pricelist** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_price_lock_by_pricelist)</sup> | Lock price or discount edition depending on pricelist items |   |   |
 | **sale_order_line_product_attribute_values** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_product_attribute_values)</sup> | Store Product Attribute Values in Sale Order Lines |   |   |
 | **sale_order_line_remove** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_remove)</sup> | Allows removal of sale order lines from confirmed orders if not invoiced or received |   |   |
