@@ -1,0 +1,21 @@
+| addon	| desc | pass | reason |
+| --- | --- | --- | --- |
+| **account_bank_statement_cascade_delete** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_bank_statement_cascade_delete)</sup> | Delete bank statement lines along with the bank statement | &#9989; | feat-account-statement |
+| **account_statement_import_base** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_base)</sup> | Base module for Bank Statement Import | &#9989; | feat-account-statement |
+| **account_statement_import_camt** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_camt)</sup> | CAMT Format Bank Statements Import |   |   |
+| **account_statement_import_camt54** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_camt54)</sup> | Bank Account Camt54 Import |   |   |
+| **account_statement_import_file** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_file)</sup> | Import Statement Files | &#9989; | feat-account-statement  |
+| **account_statement_import_file_reconcile_oca** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_file_reconcile_oca)</sup> | Import Statement Files and Go Direct to Reconciliation | &#9989; | feat-account-statement |
+| **account_statement_import_move_line** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_move_line)</sup> | Import journal items into bank statement | &#9989; | feat-account-statement |
+| **account_statement_import_ofx** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_ofx)</sup> | Import OFX Bank Statement |   |   |
+| **account_statement_import_ofx_by_acctid** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_ofx_by_acctid)</sup> | Import OFX Bank Statement by ACCTID |   |   |
+| **account_statement_import_online** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_online)</sup> | Online bank statements update |   |   |
+| **account_statement_import_online_gocardless** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_online_gocardless)</sup> | Online Bank Statements: GoCardless |   |   |
+| **account_statement_import_online_paypal** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_online_paypal)</sup> | Online bank statements for PayPal.com |   |   |
+| **account_statement_import_online_plaid** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_online_plaid)</sup> | Online Bank Statements: plaid.com |   |   |
+| **account_statement_import_online_ponto** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_online_ponto)</sup> | Online Bank Statements: MyPonto.com |   |   |
+| **account_statement_import_online_stripe** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_online_stripe)</sup> | Online bank statements for Stripe |   |   |
+| **account_statement_import_online_wise** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_online_wise)</sup> | Online bank statements for Wise.com |   |   |
+| **account_statement_import_sheet_file** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_sheet_file)</sup> | Import TXT/CSV or XLSX files as Bank Statements in Odoo | &#9989; | feat-account-statement |
+| **account_statement_import_sheet_html_file** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_import_sheet_html_file)</sup> | Import XLSX files that are HTML as Bank Statements |   |   |
+| **account_statement_line_order** <sup>[\[&#x2197;\]](https://github.com/OCA/bank-statement-import/tree/18.0/account_statement_line_order)</sup> | Adds ordering option on bank statement lines | &#9989; | feat-account-statement |

@@ -8,7 +8,7 @@
 | **product_supplierinfo_disable_autocreation** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_disable_autocreation)</sup> | Add option to disable automatic creation of pricelists for suppliers |   |   |
 | **product_supplierinfo_purchase_contact** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_purchase_contact)</sup> | Add Purchase Contact in product supplier info |   |   |
 | **product_supplierinfo_qty_multiplier** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_qty_multiplier)</sup> | Product supplierinfo qty multiplier |   |   |
-| **product_supplierinfo_update_price** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_update_price)</sup> | Updates the product's vendor price with the price set in a purchase order. |   |   |
+| **product_supplierinfo_update_price** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_update_price)</sup> | Updates the product's vendor price with the price set in a purchase order. | &#9989; | feat-price-history |
 | **purchase_advance_payment** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_advance_payment)</sup> | Allow to add advance payments on purchase orders |   |   |
 | **purchase_all_shipments** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_all_shipments)</sup> | Purchase All Shipments |   |   |
 | **purchase_allowed_product** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_allowed_product)</sup> | This module allows to select only products that can be supplied by the vendor |   |   |
@@ -28,7 +28,7 @@
 | **purchase_invoice_method** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_invoice_method)</sup> | Allow to force the invoice method of a purchase |   |   |
 | **purchase_invoice_plan** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_invoice_plan)</sup> | Add to purchases order, ability to manage future invoice plan |   |   |
 | **purchase_invoice_status_line** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_invoice_status_line)</sup> | Add invoice status on purchase order lines |   |   |
-| **purchase_last_price_info** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_last_price_info)</sup> | Purchase Product Last Price Info |   |   |
+| **purchase_last_price_info** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_last_price_info)</sup> | Purchase Product Last Price Info | &#9989; | feat-price-history |
 | **purchase_line_procurement_group** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_line_procurement_group)</sup> | Group purchase order line according to procurement group |   |   |
 | **purchase_line_reassign** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_line_reassign)</sup> | Purchase Line Reassign |   |   |
 | **purchase_line_vendor_comment** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_line_vendor_comment)</sup> | Add the vendor comment field in purchase order lines |   |   |
@@ -59,7 +59,7 @@
 | **purchase_order_product_recommendation_secondary_unit** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_order_product_recommendation_secondary_unit)</sup> | Add secondary unit to recommend products wizard |   |   |
 | **purchase_order_product_recommendation_xlsx** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_order_product_recommendation_xlsx)</sup> | Add a way to print recommended products for supplier |   |   |
 | **purchase_order_qty_change_no_recompute** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_order_qty_change_no_recompute)</sup> | Prevent recompute if only quantity has changed in purchase order line |   |   |
-| **purchase_order_secondary_unit** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_order_secondary_unit)</sup> | Purchase product in a secondary unit |   |   |
+| **purchase_order_secondary_unit** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_order_secondary_unit)</sup> | Purchase product in a secondary unit | &#9989; | feat-secondary-unit |
 | **purchase_order_supplier_return** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_order_supplier_return)</sup> | Return product to supplier and update quantiy received |   |   |
 | **purchase_order_supplierinfo_update** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_order_supplierinfo_update)</sup> | Update product supplierinfo with the last purchase price |   |   |
 | **purchase_order_type** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_order_type)</sup> | Purchase Order Type |   |   |
@@ -91,7 +91,7 @@
 | **purchase_stock_packaging** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_stock_packaging)</sup> | Allows to transmit the product packaging from the procurement values to the generated purchase order line |   |   |
 | **purchase_stock_price_unit_sync** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_stock_price_unit_sync)</sup> | Update cost price in stock moves already done |   |   |
 | **purchase_stock_reception_status** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_stock_reception_status)</sup> | Glue module to integrate OCA reception status with purchase_stock |   |   |
-| **purchase_stock_secondary_unit** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_stock_secondary_unit)</sup> | Get product quantities in a secondary unit |   |   |
+| **purchase_stock_secondary_unit** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_stock_secondary_unit)</sup> | Get product quantities in a secondary unit | &#9989; | feat-secondary-unit |
 | **purchase_substate** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_substate)</sup> | Purchase Sub State |   |   |
 | **purchase_tag** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_tag)</sup> | Allows to add multiple tags to purchase orders |   |   |
 | **purchase_tier_validation** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_tier_validation)</sup> | Extends the functionality of Purchase Orders to support a tier validation process. |   |   |
