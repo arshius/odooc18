@@ -106,7 +106,7 @@
 | **sale_order_requested_delivery** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_requested_delivery)</sup> | This module adds two new fields requested_delivery_period_start and requested_delivery_period_end to both the sale.order and sale.order.line models. |   |   |
 | **sale_order_restrict_copy_archived_product** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_restrict_copy_archived_product)</sup> | Restrict dulpication of sales order if they have archived products |   |   |
 | **sale_order_revision** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_revision)</sup> | Keep track of revised quotations |   |   |
-| **sale_order_secondary_unit** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_secondary_unit)</sup> | Sale product in a secondary unit |  | |
+| **sale_order_secondary_unit** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_secondary_unit)</sup> | Sale product in a secondary unit | &#9989; | feat-secondary-unit |
 | **sale_order_show_currency_rate** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_show_currency_rate)</sup> | Show informative exchange rate on sale order PDF reports |   |   |
 | **sale_order_split_strategy** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_split_strategy)</sup> | Define strategies to split sales orders |   |   |
 | **sale_order_tag** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_tag)</sup> | Adds Tags to Sales Orders. |   |   |
@@ -161,7 +161,7 @@
 | **sale_stock_qty_at_date_widget_multi_warehouse** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_stock_qty_at_date_widget_multi_warehouse)</sup> | Shows the availability of all the warehouses in the Qty at Date widget |   |   |
 | **sale_stock_reservation_issue_on_qty_at_date_widget** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_stock_reservation_issue_on_qty_at_date_widget)</sup> | Warn user when a reservation issue will happen when confirming an order |   |   |
 | **sale_stock_return_request** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_stock_return_request)</sup> | Sale Stock Return Request |   |   |
-| **sale_stock_secondary_unit** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_stock_secondary_unit)</sup> | Get product quantities in a secondary unit | | |
+| **sale_stock_secondary_unit** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_stock_secondary_unit)</sup> | Get product quantities in a secondary unit | &#9989; | feat-secondary-unit |
 | **sale_substate** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_substate)</sup> | Sale Sub State |   |   |
 | **sale_team_payment_term** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_team_payment_term)</sup> | add payment term on sale team |   |   |
 | **sale_tier_validation** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_tier_validation)</sup> | Extends the functionality of Sale Orders to support a tier validation process. |   |   |

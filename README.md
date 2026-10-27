@@ -94,12 +94,12 @@ P
 - **Partner Contact** <sup>[[&#x2197;]](https://github.com/OCA/partner-contact) [\[1/99\]](todo/partner-contact.md)</sup>
 - **Payroll** <sup>[[&#x2197;]](https://github.com/OCA/payroll)</sup>
 - **Pos** <sup>[[&#x2197;]](https://github.com/OCA/pos)</sup>
-- **Product Attribute** <sup>[[&#x2197;]](https://github.com/OCA/product-attribute)</sup>
+- **Product Attribute** <sup>[[&#x2197;]](https://github.com/OCA/product-attribute) [\[1/105\]](todo/product-attribute.md)</sup>
 - **Product Pack** <sup>[[&#x2197;]](https://github.com/OCA/product-pack)</sup>
 - **Product Variant** <sup>[[&#x2197;]](https://github.com/OCA/product-variant) [\[3/11\]](todo/product-variant.md)</sup>
 - **Project** <sup>[[&#x2197;]](https://github.com/OCA/project)</sup>
 - **Purchase Reporting** <sup>[[&#x2197;]](https://github.com/OCA/purchase-reporting)</sup>
-- **Purchase Workflow** <sup>[[&#x2197;]](https://github.com/OCA/purchase-workflow) [\[2/107\]](todo/purchase-workflow.md)</sup>
+- **Purchase Workflow** <sup>[[&#x2197;]](https://github.com/OCA/purchase-workflow) [\[4/107\]](todo/purchase-workflow.md)</sup>
 
 Q
 - **Queue** <sup>[[&#x2197;]](https://github.com/OCA/queue)</sup>
@@ -117,7 +117,7 @@ S
 - **Sale Channel** <sup>[[&#x2197;]](https://github.com/OCA/sale-channel)</sup>
 - **Sale Promotion** <sup>[[&#x2197;]](https://github.com/OCA/sale-promotion)</sup>
 - **Sale Reporting** <sup>[[&#x2197;]](https://github.com/OCA/sale-reporting)</sup>
-- **Sale Workflow** <sup>[[&#x2197;]](https://github.com/OCA/sale-workflow) [\[4/173\]](todo/sale-workflow.md)</sup>
+- **Sale Workflow** <sup>[[&#x2197;]](https://github.com/OCA/sale-workflow) [\[6/173\]](todo/sale-workflow.md)</sup>
 - **Server Auth** <sup>[[&#x2197;]](https://github.com/OCA/server-auth)</sup>
 - **Server Backend** <sup>[[&#x2197;]](https://github.com/OCA/server-backend)</sup>
 - **Server Brand** <sup>[[&#x2197;]](https://github.com/OCA/server-brand)</sup>
@@ -138,7 +138,7 @@ S
 - **Stock Logistics Reservation** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-reservation)</sup>
 - **Stock Logistics Shopfloor** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-shopfloor)</sup>
 - **Stock Logistics Transport** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-transport)</sup>
-- **Stock Logistics Warehouse** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-warehouse)</sup>
+- **Stock Logistics Warehouse** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-warehouse) [\[1/84\]](todo/stock-logistics-warehouse.md)</sup>
 - **Stock Logistics Workflow** <sup>[[&#x2197;]](https://github.com/OCA/stock-logistics-workflow) [\[1/115\]](todo/stock-logistics-workflow.md)</sup>
 - **Stock Weighing** <sup>[[&#x2197;]](https://github.com/OCA/stock-weighing)</sup>
 - **Storage** <sup>[[&#x2197;]](https://github.com/OCA/storage)</sup>
