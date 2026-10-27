@@ -48,7 +48,7 @@
 | **sale_invoice_policy** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_invoice_policy)</sup> | Sales Management: let the user choose the invoice policy on the order |   |   |
 | **sale_invoice_product_not_alone** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_invoice_product_not_alone)</sup> | Set products to not invoice alone |   |   |
 | **sale_invoice_split_payment** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_invoice_split_payment)</sup> | Split by payment term generated invoices from sale orders |   |   |
-| **sale_last_price_info** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_last_price_info)</sup> | Product Last Price Info - Sale |   |   |
+| **sale_last_price_info** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_last_price_info)</sup> | Product Last Price Info - Sale | &#9989; | feat-price-history |
 | **sale_line_name_option** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_line_name_option)</sup> | Display product description without reference code on sale order lines |   |   |
 | **sale_line_vendor_comment** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_line_vendor_comment)</sup> | Add the vendor comment field to sale order line |   |   |
 | **sale_mail_autosubscribe** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_mail_autosubscribe)</sup> | Automatically subscribe partners to their company's sale orders |   |   |
@@ -73,7 +73,7 @@
 | **sale_order_line_date** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_date)</sup> | Adds a commitment date to each sale order line. |   |   |
 | **sale_order_line_date_next_reception** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_date_next_reception)</sup> | Next reception Date on sale order line |   |   |
 | **sale_order_line_delivery_state** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_delivery_state)</sup> | Show the delivery state on the sale order line |   |   |
-| **sale_order_line_description** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_description)</sup> | Sale order line description |   |   |
+| **sale_order_line_description** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_description)</sup> | Sale order line description | &#9989; | feat-sale-improvement |
 | **sale_order_line_effective_date** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_effective_date)</sup> | Calculated effective dates in Sale Order Lines |   |   |
 | **sale_order_line_final_price** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_final_price)</sup> | Set the final price of a sale order line, and lock its unit price and discount for non sales managers |   |   |
 | **sale_order_line_input** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_input)</sup> | Search, create or modify directly sale order lines |   |   |
@@ -81,7 +81,7 @@
 | **sale_order_line_move_to_optional** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_move_to_optional)</sup> | Move sale order line to optional products. |   |   |
 | **sale_order_line_no_print** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_no_print)</sup> | Hide order lines in reports |   |   |
 | **sale_order_line_note** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_note)</sup> | Note on sale order line |   |   |
-| **sale_order_line_price_history** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_price_history)</sup> | Sale order line price history |   |   |
+| **sale_order_line_price_history** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_price_history)</sup> | Sale order line price history | &#9989; | feat-price-history |
 | **sale_order_line_price_lock_by_pricelist** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_price_lock_by_pricelist)</sup> | Lock price or discount edition depending on pricelist items |   |   |
 | **sale_order_line_product_attribute_values** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_product_attribute_values)</sup> | Store Product Attribute Values in Sale Order Lines |   |   |
 | **sale_order_line_remove** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_remove)</sup> | Allows removal of sale order lines from confirmed orders if not invoiced or received |   |   |
@@ -96,7 +96,7 @@
 | **sale_order_price_recalculation** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_price_recalculation)</sup> | Recalculate prices / Reset descriptions on sale order lines |   |   |
 | **sale_order_priority** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_priority)</sup> | Define priority on sale orders |   |   |
 | **sale_order_product_assortment** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_assortment)</sup> | Module that allows to use the assortments on sale orders |   |   |
-| **sale_order_product_availability_inline** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_availability_inline)</sup> | Show product availability in sales order line product drop-down. |   |   |
+| **sale_order_product_availability_inline** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_availability_inline)</sup> | Show product availability in sales order line product drop-down. | &#9989; | feat-sale-improvement |
 | **sale_order_product_recommendation** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_recommendation)</sup> | Recommend products to sell to customer based on history |   |   |
 | **sale_order_product_recommendation_elaboration** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_recommendation_elaboration)</sup> | Include elaborations when generating or accepting sale order product recommendations |   |   |
 | **sale_order_product_recommendation_packaging_default** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_recommendation_packaging_default)</sup> | Quickly add recommended products to sale order by packagings |   |   |

@@ -8,7 +8,7 @@
 | **product_supplierinfo_disable_autocreation** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_disable_autocreation)</sup> | Add option to disable automatic creation of pricelists for suppliers |   |   |
 | **product_supplierinfo_purchase_contact** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_purchase_contact)</sup> | Add Purchase Contact in product supplier info |   |   |
 | **product_supplierinfo_qty_multiplier** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_qty_multiplier)</sup> | Product supplierinfo qty multiplier |   |   |
-| **product_supplierinfo_update_price** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_update_price)</sup> | Updates the product's vendor price with the price set in a purchase order. |   |   |
+| **product_supplierinfo_update_price** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/product_supplierinfo_update_price)</sup> | Updates the product's vendor price with the price set in a purchase order. | &#9989; | feat-price-history |
 | **purchase_advance_payment** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_advance_payment)</sup> | Allow to add advance payments on purchase orders |   |   |
 | **purchase_all_shipments** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_all_shipments)</sup> | Purchase All Shipments |   |   |
 | **purchase_allowed_product** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_allowed_product)</sup> | This module allows to select only products that can be supplied by the vendor |   |   |
@@ -28,7 +28,7 @@
 | **purchase_invoice_method** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_invoice_method)</sup> | Allow to force the invoice method of a purchase |   |   |
 | **purchase_invoice_plan** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_invoice_plan)</sup> | Add to purchases order, ability to manage future invoice plan |   |   |
 | **purchase_invoice_status_line** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_invoice_status_line)</sup> | Add invoice status on purchase order lines |   |   |
-| **purchase_last_price_info** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_last_price_info)</sup> | Purchase Product Last Price Info |   |   |
+| **purchase_last_price_info** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_last_price_info)</sup> | Purchase Product Last Price Info | &#9989; | feat-price-history |
 | **purchase_line_procurement_group** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_line_procurement_group)</sup> | Group purchase order line according to procurement group |   |   |
 | **purchase_line_reassign** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_line_reassign)</sup> | Purchase Line Reassign |   |   |
 | **purchase_line_vendor_comment** <sup>[\[&#x2197;\]](https://github.com/OCA/purchase-workflow/tree/18.0/purchase_line_vendor_comment)</sup> | Add the vendor comment field in purchase order lines |   |   |
