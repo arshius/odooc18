@@ -73,7 +73,7 @@
 | **sale_order_line_date** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_date)</sup> | Adds a commitment date to each sale order line. |   |   |
 | **sale_order_line_date_next_reception** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_date_next_reception)</sup> | Next reception Date on sale order line |   |   |
 | **sale_order_line_delivery_state** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_delivery_state)</sup> | Show the delivery state on the sale order line |   |   |
-| **sale_order_line_description** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_description)</sup> | Sale order line description |   |   |
+| **sale_order_line_description** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_description)</sup> | Sale order line description | &#9989; | feat-sale-improvement |
 | **sale_order_line_effective_date** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_effective_date)</sup> | Calculated effective dates in Sale Order Lines |   |   |
 | **sale_order_line_final_price** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_final_price)</sup> | Set the final price of a sale order line, and lock its unit price and discount for non sales managers |   |   |
 | **sale_order_line_input** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_line_input)</sup> | Search, create or modify directly sale order lines |   |   |
@@ -96,7 +96,7 @@
 | **sale_order_price_recalculation** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_price_recalculation)</sup> | Recalculate prices / Reset descriptions on sale order lines |   |   |
 | **sale_order_priority** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_priority)</sup> | Define priority on sale orders |   |   |
 | **sale_order_product_assortment** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_assortment)</sup> | Module that allows to use the assortments on sale orders |   |   |
-| **sale_order_product_availability_inline** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_availability_inline)</sup> | Show product availability in sales order line product drop-down. |   |   |
+| **sale_order_product_availability_inline** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_availability_inline)</sup> | Show product availability in sales order line product drop-down. | &#9989; | feat-sale-improvement |
 | **sale_order_product_recommendation** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_recommendation)</sup> | Recommend products to sell to customer based on history |   |   |
 | **sale_order_product_recommendation_elaboration** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_recommendation_elaboration)</sup> | Include elaborations when generating or accepting sale order product recommendations |   |   |
 | **sale_order_product_recommendation_packaging_default** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sale_order_product_recommendation_packaging_default)</sup> | Quickly add recommended products to sale order by packagings |   |   |
@@ -173,4 +173,3 @@
 | **sales_team_security** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sales_team_security)</sup> | New group for seeing only sales channel's documents |   |   |
 | **sell_only_by_packaging** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/sell_only_by_packaging)</sup> | Manage sale of packaging |   |   |
 | **web_widget_product_label_section_and_note_full_label_sale** <sup>[\[&#x2197;\]](https://github.com/OCA/sale-workflow/tree/18.0/web_widget_product_label_section_and_note_full_label_sale)</sup> | Glue module between web_widget_product_label_section_and_note_full_label and sale. |   |   |
-
