@@ -39,7 +39,7 @@
 | **stock_move_source_relocate** <sup>[\[&#x2197;\]](https://github.com/OCA/stock-logistics-workflow/tree/18.0/stock_move_source_relocate)</sup> | Change source location of unavailable moves |  |  |
 | **stock_move_source_relocate_dynamic_routing** <sup>[\[&#x2197;\]](https://github.com/OCA/stock-logistics-workflow/tree/18.0/stock_move_source_relocate_dynamic_routing)</sup> | Glue module |  |  |
 | **stock_move_vendor_comment** <sup>[\[&#x2197;\]](https://github.com/OCA/stock-logistics-workflow/tree/18.0/stock_move_vendor_comment)</sup> | Add the vendor comment field to stock move |  |  |
-| **stock_no_negative** <sup>[\[&#x2197;\]](https://github.com/OCA/stock-logistics-workflow/tree/18.0/stock_no_negative)</sup> | Disallow negative stock levels by default |  |  |
+| **stock_no_negative** <sup>[\[&#x2197;\]](https://github.com/OCA/stock-logistics-workflow/tree/18.0/stock_no_negative)</sup> | Disallow negative stock levels by default | &#9989; | feat-stock-positive |
 | **stock_override_procurement** <sup>[\[&#x2197;\]](https://github.com/OCA/stock-logistics-workflow/tree/18.0/stock_override_procurement)</sup> | This technical module allow to override procurement values |  |  |
 | **stock_owner_restriction** <sup>[\[&#x2197;\]](https://github.com/OCA/stock-logistics-workflow/tree/18.0/stock_owner_restriction)</sup> | Do not reserve quantity with assigned owner |  |  |
 | **stock_partner_delivery_window** <sup>[\[&#x2197;\]](https://github.com/OCA/stock-logistics-workflow/tree/18.0/stock_partner_delivery_window)</sup> | Define preferred delivery time windows for partners |  |  |
