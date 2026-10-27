@@ -28,7 +28,7 @@
 | **base_time_parameter** <sup>[\[&#x2197;\]](https://github.com/OCA/server-tools/tree/18.0/base_time_parameter)</sup> | Time dependent parameters Adds the feature to define parameters with time based versions. |  |  |
 | **base_time_window** <sup>[\[&#x2197;\]](https://github.com/OCA/server-tools/tree/18.0/base_time_window)</sup> | Base model to handle time windows |  |  |
 | **base_url** <sup>[\[&#x2197;\]](https://github.com/OCA/server-tools/tree/18.0/base_url)</sup> | Abstract module/mixin to manage clean url on odoo record |  |  |
-| **base_view_inheritance_extension** <sup>[\[&#x2197;\]](https://github.com/OCA/server-tools/tree/18.0/base_view_inheritance_extension)</sup> | Adds more operators for view inheritance | &#9989; | feat-sale-improvement |
+| **base_view_inheritance_extension** <sup>[\[&#x2197;\]](https://github.com/OCA/server-tools/tree/18.0/base_view_inheritance_extension)</sup> | Adds more operators for view inheritance | &#9989; | feat-account-statement, feat-sale-improvement |
 | **bus_alt_connection** <sup>[\[&#x2197;\]](https://github.com/OCA/server-tools/tree/18.0/bus_alt_connection)</sup> | Needed when using PgBouncer as a connection pooler |  |  |
 | **database_autovacuum_tuning** <sup>[\[&#x2197;\]](https://github.com/OCA/server-tools/tree/18.0/database_autovacuum_tuning)</sup> | Scheduled checks for Odoo autovacuum thresholds and scale factors |  |  |
 | **database_cleanup** <sup>[\[&#x2197;\]](https://github.com/OCA/server-tools/tree/18.0/database_cleanup)</sup> | Database cleanup |  |  |
