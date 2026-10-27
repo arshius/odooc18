@@ -83,7 +83,7 @@ M
 - **Manufacture Reporting** <sup>[[&#x2197;]](https://github.com/OCA/manufacture-reporting)</sup>
 - **Margin Analysis** <sup>[[&#x2197;]](https://github.com/OCA/margin-analysis)</sup>
 - **Mass Mailing** <sup>[[&#x2197;]](https://github.com/OCA/mass-mailing)</sup>
-- **Multi Company** <sup>[[&#x2197;]](https://github.com/OCA/multi-company)</sup>
+- **Multi Company** <sup>[[&#x2197;]](https://github.com/OCA/multi-company) [\[8/29\]](todo/multi-company.md)</sup>
 
 N
 
