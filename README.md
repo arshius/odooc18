@@ -3,7 +3,7 @@ This project goals is to implements all module from OCA to cater to Nusa Cipta A
 List of OCA implementation separated by repository
 ---
 A
-- **Account Analytic** <sup>[[&#x2197;]](https://github.com/OCA/account-analytic) [32&#9898;\(0&#9989;\|0&#10134;\|0&#10060;\)](todo/account-analytic.md)</sup>
+- **Account Analytic** <sup>[[&#x2197;]](https://github.com/OCA/account-analytic) [32&#9898;\(12&#9989;\|9&#10134;\|11&#10060;\)](todo/account-analytic.md)</sup>
 - **Account Budgeting** <sup>[[&#x2197;]](https://github.com/OCA/account-budgeting)</sup>
 - **Account Closing** <sup>[[&#x2197;]](https://github.com/OCA/account-closing)</sup>
 - **Account Consolidation** <sup>[[&#x2197;]](https://github.com/OCA/account-consolidation)</sup>
